@@ -1,8 +1,5 @@
 Java Programming Practice Repository
 
-Author:
-Hitha U Karkera
-
 Folder Structure:
 
 Assignment
@@ -20,6 +17,15 @@ Operator
 Usecases
 com
 Mapusecase.java
+
+How to Run:
+1. Clone the repository
+2. Open in any Java(Eclipse) IDE
+3. Run the required .java file
+
+Technologies Used:
+Java
+Eclipse
 
 Folder Descriptions:
 
@@ -69,12 +75,5 @@ Standalone File:
 Mapusecase.java:
 A Java program demonstrating Map usage with real-world logic.
 
-Technologies Used:
-Java
-Eclipse
-
-How to Run:
-1. Clone the repository
-2. Open in any Java(Eclipse) IDE
-3. Run the required .java file
-
+Author:
+Hitha U Karkera
